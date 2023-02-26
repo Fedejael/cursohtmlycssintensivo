@@ -14,3 +14,7 @@
 ###### Proyecto 3 Barra Busqueda: https://barrabusquedahtml.netlify.app/
 ![](https://i.ibb.co/JvPqpKM/barrabusqueda.png)
 
+
+###### Proyecto 4 Pago Confirmado: https://pagoconfirmadohtml.netlify.app/
+![](https://i.ibb.co/3d5XhY7/pagoconfirmado.png)
+
