@@ -11,3 +11,6 @@
 ![](https://i.ibb.co/4WK5n14/imagenesapiladas.png)
 
 
+###### Proyecto 3 Barra Busqueda: https://barrabusquedahtml.netlify.app/
+![](https://i.ibb.co/JvPqpKM/barrabusqueda.png)
+
