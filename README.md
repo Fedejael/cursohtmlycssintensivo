@@ -21,3 +21,7 @@
 
 ###### Proyecto 5 Carta Pokemon: https://cartapokemonhtml.netlify.app/
 ![](https://i.ibb.co/0FFpBrc/cartapokemon.png)
+
+
+###### Proyecto 6 Landing Page: https://landingpagekcfhtml.netlify.app/
+![](https://i.ibb.co/Xjy8D6Z/landingpagehtml.png)
