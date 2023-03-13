@@ -38,3 +38,7 @@
 ###### Proyecto 9 Card Nike: https://cardnikehtml.netlify.app/
 ![](https://i.ibb.co/GtTDwYt/cardnike.png)
 
+
+###### Proyecto 10 Netflix Page: https://netflixpagehtml.netlify.app/
+![](https://i.ibb.co/BrhVjP3/netflixpage.png)
+
