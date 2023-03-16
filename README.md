@@ -42,3 +42,6 @@
 ###### Proyecto 10 Netflix Page: https://netflixpagehtml.netlify.app/
 ![](https://i.ibb.co/BrhVjP3/netflixpage.png)
 
+
+###### Proyecto 11 Lista Personajes: https://listapersonajeshtml.netlify.app/
+![](https://i.ibb.co/YRZYnLj/listapersonajes.png)
