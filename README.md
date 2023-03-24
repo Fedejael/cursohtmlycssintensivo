@@ -48,5 +48,5 @@
 
 
 ###### Proyecto 12 Hover: https://hoverhtml.netlify.app/
-![](https://i.ibb.co/D7548JP/hoverhtml.png))
+![](https://i.ibb.co/D7548JP/hoverhtml.png)
 
