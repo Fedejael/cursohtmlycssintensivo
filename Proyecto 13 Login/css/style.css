@@ -21,4 +21,80 @@ section {
 section .color {
   position: absolute;
   filter: blur(150px);
+}
+section .color:nth-child(1) {
+  top: -350px;
+  background: #5c55e6;
+  width: 600px;
+  height: 600px;
+}
+section .color:nth-child(2) {
+  bottom: -150px;
+  left: 100px;
+  background: #4b1c8b;
+  width: 500px;
+  height: 500px;
+}
+section .color:nth-child(3) {
+  bottom: 50px;
+  right: 0;
+  background: #001f6a;
+  width: 300px;
+  height: 300px;
+}
+section .box .cuadrado {
+  content: "";
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+  -webkit-backdrop-filter: blur 5px;
+          backdrop-filter: blur 5px;
+  background: rgba(228, 8, 209, 0.1);
+  animation: animate 10s linear infinite;
+  animation-delay: calc(-1s * var(--i));
+}
+section .box .cuadrado:nth-child(1) {
+  top: -50px;
+  right: -60px;
+  width: 100px;
+  height: 100px;
+}
+section .box .cuadrado:nth-child(2) {
+  top: 150px;
+  left: -100px;
+  width: 120px;
+  height: 120px;
+  z-index: 2;
+}
+section .box .cuadrado:nth-child(3) {
+  bottom: 50px;
+  right: -60px;
+  width: 80px;
+  height: 80px;
+  z-index: 2;
+}
+section .box .cuadrado:nth-child(4) {
+  bottom: -80px;
+  left: 100px;
+  width: 50px;
+  height: 50px;
+}
+section .box .cuadrado:nth-child(5) {
+  bottom: -80px;
+  left: 140px;
+  width: 60px;
+  height: 60px;
+  z-index: 2;
+}
+
+@keyframes animate {
+  0%, 100% {
+    transform: translateY(-40px);
+  }
+  50% {
+    transform: translateY(4px);
+  }
 }/*# sourceMappingURL=style.css.map */
